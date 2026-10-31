@@ -22,3 +22,27 @@ Power BI, DAX, Power Query
 
 * [Download Power BI Dashboard](Financial%20Dashboard.pbix)
 * [View PDF Documentation](Financial_Dashboard_Report.pdf)
+
+---
+
+## Healthcare Analytics Dashboard
+
+### Project Overview
+
+An interactive Healthcare Analytics Dashboard developed using Microsoft Power BI to analyze healthcare performance and operational indicators.
+
+### Key Features
+
+* Healthcare KPI Analysis
+* Patient and Operational Analysis
+* Healthcare Performance Monitoring
+* Interactive Dashboard Visualizations
+
+### Tools Used
+
+Power BI, DAX, Power Query
+
+### Project Files
+
+* [Download Power BI Dashboard](Health%20Care.pbix)
+* [View PDF Documentation](Healthcare_Analytics_Dashboard.pdf) 
