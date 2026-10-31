@@ -22,7 +22,19 @@ Power BI, DAX, Power Query
 
 * [Download Power BI Dashboard](Financial%20Dashboard.pbix)
 * [View PDF Documentation](Financial_Dashboard_Report.pdf)
+### Dashboard Screenshots
 
+**Financial Overview**
+![Financial Overview](financial-overview.png)
+
+**Revenue Analysis**
+![Revenue Analysis](financial-revenue.png)
+
+**Expense Analysis**
+![Expense Analysis](financial-expenses.png)
+
+**Profit Analysis**
+![Profit Analysis](financial-profit.png)
 ---
 
 ## Healthcare Analytics Dashboard
