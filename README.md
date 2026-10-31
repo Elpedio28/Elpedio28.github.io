@@ -58,3 +58,23 @@ Power BI, DAX, Power Query
 
 * [Download Power BI Dashboard](Health%20Care.pbix)
 * [View PDF Documentation](Healthcare_Analytics_Dashboard.pdf) 
+
+### Healthcare Dashboard Screenshots
+
+**1. Healthcare Overview**
+![Healthcare Overview](healthcare-overview.png)
+
+**2. Financial Analysis**
+![Healthcare Financial Analysis](healthcare-financial.png)
+
+**3. Doctor Performance**
+![Doctor Performance](healthcare-doctor.png)
+
+**4. Diagnosis Analysis**
+![Diagnosis Analysis](healthcare-diagnosis.png)
+
+**5. Department Analysis**
+![Department Analysis](healthcare-department.png)
+
+**6. Patient Summary**
+![Patient Summary](healthcare-patients.png)
