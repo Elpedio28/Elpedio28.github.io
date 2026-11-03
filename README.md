@@ -78,3 +78,47 @@ Power BI, DAX, Power Query
 
 **6. Patient Summary**
 ![Patient Summary](healthcare-patients.png)
+
+
+---
+
+# HR Analytics Dashboard
+
+## Project Overview
+
+An interactive HR Analytics Dashboard developed using Power BI to analyze employee information, recruitment, workforce performance, employee leaves, transactions, and payroll.
+
+## Key Features
+
+- Employee Headcount Analysis
+- Recruitment and Hiring Analysis
+- Employee Leave Monitoring
+- Employee Transaction Analysis
+- Payroll and Salary Breakdown
+- Department and Workforce Analysis
+
+## Tools Used
+
+Power BI, DAX, Power Query, Excel
+
+## Project Files
+
+- [Download HR Dashboard](HR%20Dash%20Board.pbix)
+- [View HR Report PDF](HR_Analytics_Report_pdf.pdf)
+
+## HR Dashboard Screenshots
+
+### 1. HR Overview
+![HR Overview](HR-Overview%20png.png)
+
+### 2. Employee Leaves
+![Employee Leaves](HR-Employee%20Leaves%20png.png)
+
+### 3. Employee Transactions
+![Employee Transactions](HR-Employee%20Transaction%20png.png)
+
+### 4. Recruitment Analysis
+![Recruitment Analysis](HR-Recruitment%20analysis%20png.png)
+
+### 5. Payroll Analysis
+![Payroll Analysis](HR-Payroll%20analysis%20png.png)
